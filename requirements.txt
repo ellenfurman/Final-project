@@ -1,0 +1,18 @@
+pandas
+seaborn
+matplotlib
+sklearn: metrics
+	train_test_split
+	LogisticRegression
+	classification_report
+	confusion_matrix
+	mean_squared_error
+	neighbors
+	permutation_importance
+	StandardScaler
+	KNeighborsClassifier
+	tree
+math
+statistics
+warnings
+scipy
